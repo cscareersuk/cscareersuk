@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://cscareers.uk/ is a new forum for university students in the UK to discuss tech internships in 2024.
+Crowdsource and share information to help optimize your chances of getting the best internships.
+
+Check it out!
 <!--
 **cscareersuk/cscareersuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
